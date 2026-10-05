@@ -1,3 +1,5 @@
+1 Arbres
+
 Question 1 :
 
 La structure de l’arbre est importante pour, par exemple, représenter des hiérarchies, des décisions ou bien encore du découpage spatial.
@@ -23,6 +25,11 @@ Façons différentes de parcourir :
     
 Question 4 : 
 
-Quelle est le nom de la méthode de parcours qui commence par la racine ?
-
 C'est le parcours en profondeur préfixé.
+
+2 Application des arbres
+
+Question 1 :
+
+Oui, le code est réutilisable pour du JSON, ArbreNAire <T> est adaptée car elle gère une liste d'enfants (List <ArbreNAire<T>>) et un type générique T.
+Pour décrire un arbre de solutions pour un jeu d'échecs, ou un arbre de décision : SinglyListArbreClass<T> convient car ces arbres sont généralement binaires.
