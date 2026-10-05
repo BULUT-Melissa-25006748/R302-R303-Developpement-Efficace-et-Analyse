@@ -1,0 +1,28 @@
+Question 1 :
+
+La structure de l’arbre est importante pour, par exemple, représenter des hiérarchies, des décisions ou bien encore du découpage spatial.
+
+Pour démontrer : 
+
+- Situations techniques
+    - Système de fichiers
+    - Auto-complétion
+- Situations fonctionnelles
+    - Organisation des entreprises
+    - Prise de décisions
+    - Catalogue de produits
+    
+Question 3 : 
+
+Façons différentes de parcourir :
+- Parcours en largeur
+- Parcours en profondeur
+    - Préfixé (Racine / Gauche / Droite)
+    - Infixé (Gauche / Racine / Droite)
+    - Postfixé (Gauche / Droite / Racine)
+    
+Question 4 : 
+
+Quelle est le nom de la méthode de parcours qui commence par la racine ?
+
+C'est le parcours en profondeur préfixé.
